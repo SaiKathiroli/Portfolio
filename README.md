@@ -2,19 +2,6 @@
  
 Welcome to my personal portfolio website! This project showcases my skills, experience, and projects in a visually appealing and user-friendly manner.
 
-# Table of Contents
-Introduction
-Features
-Getting Started
-Responsive Design
-Usage
-Technologies Used
-Contributing
-License
-Contact
-Introduction
-This personal portfolio website serves as a platform to introduce myself, highlight my educational background, career objectives, and showcase my technical skills and projects. The site is designed to provide an easy and engaging experience for visitors to learn more about me and my work.
-
 # Features
 Profile Section: Introduces me with a profile picture, name, and professional title.
 About Me: Provides information about my education, career objectives, and a glimpse into my personality.
