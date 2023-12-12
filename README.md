@@ -42,5 +42,5 @@ This project is licensed under the MIT License.
 
 Contact
 Email: saikathirolip@gmail.com
-LinkedIn: Sai Kathiroli
+
 Thank you for visiting my portfolio! I hope you enjoy exploring my work and learning more about me. If you have any feedback or suggestions, feel free to reach out.
